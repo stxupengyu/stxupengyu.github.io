@@ -1,9 +1,8 @@
 # Basic
-title: Liyi 
-subtitle: A blog for Liyi
+title: Yu
+subtitle: A blog for Yu
 welcome_message: <a href="https://github.com/stxupengyu" target="_blank">Click to my github</a>
-description: 在冷静和热情之间，以适合自己的温度存在
-#Every single day without dancing is one day we betrayed of life.
+description: Every single day without dancing is one day we betrayed of life.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://pangyu.club"
@@ -33,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: pangyu
+    disqus: Yu
     # duoshuo: 
     
 # Social
 social:
-    weibo: 
+    weibo: 5900636945
     github: stxupengyu
-    twitter: 
+    twitter: pangyu16551893
     gplus: 107108267983477358170
-    mail: stxupengyu@gmail.com
+    mail: stxupengyu
 
 # Google Analytics
 ga:
